@@ -9,6 +9,10 @@ This is a React.js project that includes various features such as dashboards, wi
 - **Customizable Layout**: Allows personalization of the dashboard layout.
 - **Persistent State**: Utilizes local storage to save and retrieve state.
 
+##Live Demo
+
+You can view the deployed application at: [Project Deployment](https://assignment-project-lucky-virani.vercel.app/)
+
 ## Prerequisites
 
 Ensure you have the following software installed on your local machine:
