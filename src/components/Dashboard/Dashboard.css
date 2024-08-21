@@ -1,0 +1,182 @@
+.dashboard1 {
+  padding: 30px;
+}
+
+.dashboard2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.dashboard3 {}
+
+.dashboard3 h6 {
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  color: #000000;
+  margin: 0;
+}
+
+
+.dashboard4 {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.dashboard4 button {
+  width: auto;
+  height: auto;
+  background: #ffffff;
+  border: 1px solid #e4e9ee;
+  outline: none;
+  padding: 10px 15px 10px 15px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  color: #9ca2ac;
+  margin: 0;
+  cursor: pointer;
+}
+
+
+
+.dashboard5 {
+  display: flex;
+  align-items: center;
+  border: 1px solid #14147d;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+
+.dashboard5 span {
+  border-right: 1px solid #14147d;
+  padding-right: 5px;
+}
+
+.dashboard5 select {
+  border: none;
+  outline: none;
+  background: transparent;
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  color: #14147d;
+  margin: 0;
+}
+
+
+.dashboard6 {}
+
+
+.dashboard7 {
+  margin-top: 15px;
+}
+
+.dashboard7 h5 {
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  color: #000000;
+  margin: 0;
+}
+
+
+.dashboard8 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.dashboard9 {
+  background-color: #ffffff;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 8px;
+  width: auto;
+  height: auto;
+  padding: 10px;
+  min-height: 200px;
+}
+
+.dashboard9 p {
+  font-family: sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  color: #000000;
+  margin: 0;
+  text-align: start;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.dashboard10{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.dashboard10 button {
+  width: auto;
+  height: auto;
+  background: #fafafa;
+  border: 1px solid #e4e9ee;
+  outline: none;
+  padding: 10px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: #9ca2ac;
+  margin: 0;
+  cursor: pointer;
+}
+
+.dashboard10 p{
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: #000000;
+  margin: 0;
+}
+
+
+.chart1{
+  margin-top: 10px;
+}
+
+
+
+.addwidget{
+  background-color: #14147d;
+  color: #ffffff;
+}
+
+
+.addwidget1{
+
+}
+
+.addwidget1 p{
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: #7f7f7f;
+  margin: 0;
+}
